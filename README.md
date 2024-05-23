@@ -3,7 +3,7 @@ https://vercel.com/bavertus-projects/flixx
 
 Movie info application built with vanilla JavaScript that uses **version 3** of the [TMDB API](https://developers.themoviedb.org/3)
 
-This is part of my **Modern JS From The Beginning 2.0** course
+This is part of **Modern JS From The Beginning 2.0** course
 
 <img src="images/screen.jpg" width="500">
 
